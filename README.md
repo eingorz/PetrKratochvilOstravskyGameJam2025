@@ -3,4 +3,10 @@ Repozitář pro hru na Ostravský Game Jam 2025 - tým Petr Kratochvíl :>
 
 ---
 
+- Theme: **Přes hranice**
+## Vysvětlení hry
+- Princip hry je, že hrajete za obávaného Petra Česneka, jenž je stíhán agenty organizací KGB a GRU za jeho správné, avšak nelegální politické názory. Cílem je uniknout z tragického brna to úchvatné Patagonie za co nejkratší čas s pomocí komunikace s jemnohmotným světem a pár fuckass abilitkama.
+
+## P. S.
+- Ten kód je fuckass, neumím s tím unrealem pomalu, ale fungovalo to jak mělo, jen třeba abilitky jsou manuálně dělané, než abych to hodil do data tablu, nebo funkcí je tam možná 5.
 ![logo týmu](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.administrace.tv%2F2021%2F10%2F08%2Fhd%2F3bb894a068ab62c08ba1dd76a9ba4836.png&f=1&nofb=1&ipt=d551193a468e2a3925437a85da6d32eb94d888e33ee7686c6346e40a5793f214)
